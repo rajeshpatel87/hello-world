@@ -1,5 +1,5 @@
 # Welcome to GitHub
-
+[![Build Status](https://dev.azure.com/suneelpatel540225/Test/_apis/build/status/rajeshpatel87.hello-world?branchName=master)](https://dev.azure.com/suneelpatel540225/Test/_build/latest?definitionId=1&branchName=master)
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
 ## Repositories
